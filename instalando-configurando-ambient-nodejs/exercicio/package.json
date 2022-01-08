@@ -1,0 +1,16 @@
+{
+  "name": "primeira-aula",
+  "version": "1.0.0",
+  "description": "projeto para treinar e aprender nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "main": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript;",
+    "nodejs"
+  ],
+  "author": "Leonardo K. Luz",
+  "license": "ISC"
+}

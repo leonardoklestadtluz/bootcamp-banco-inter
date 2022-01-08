@@ -1,0 +1,3 @@
+# Integrando um Back-end em Node.Js com um Front-end em React para um E-commerce
+
+Aprenda como integrar um front-end em React com uma API REST (desenvolvida em nodeJS). Para isso, a expert apresenta uma abordagem totalmente prática de desenvolvimento, onde dicas e boas práticas fazem parte do seu percurso. Como desafio, reproduza ou faça um "fork" nos projetos da expert (os links estão disponíveis par este desafio) e implemente suas próprias evoluções. Vamos juntos!?

@@ -1,0 +1,53 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: rgba(145, 214, 55, 0.247);
+  margin: 2rem;
+}
+
+h1 {
+  font-family: 'Mountains of Christmas', cursive;
+  text-align: center;
+}
+
+hr {
+  border: solid 3px rgba(0, 0, 0, 0.575);
+  margin: 27px 0;
+}
+
+h2 {
+  font-family: 'Mountains of Christmas', cursive;
+  margin: 27px 0;
+}
+
+section.container {
+  font-family: 'Nova Mono', monospace;
+  
+  display: inline-block;
+  justify-content: center;
+  align-items: center;
+}
+
+.create {
+  margin-bottom: 27px;
+}
+
+span {
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+p {
+  font-size: 1.2rem;
+  text-shadow: 2px 2px #00ff1531;
+}
+
+p#example {
+  background: rgba(0, 0, 0, 0.342);
+  border-radius: 0.3rem 0.8rem;
+  margin-top: 27px;
+  padding: .7rem;
+}
